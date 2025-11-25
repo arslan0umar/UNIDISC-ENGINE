@@ -471,10 +471,10 @@ This project is open source and available for educational purposes.
 
 ## Contact
 
-**Developer**: [Your Name]  
+**Developer**: Muhammad Arslan, Muhammad Dawood, Mian Dawood  
 **University**: FAST NUCES  
-**Email**: [your.email@example.com]  
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**Email**: [arslanumar0326@gmail.com]  
+**GitHub**: [arslan0umar](https://github.com/arslan0umar)
 
 ---
 
@@ -488,8 +488,7 @@ This project is open source and available for educational purposes.
 
 **⭐ If you find this project helpful, please give it a star!**
 
-**📝 For detailed testing guide, see [SampleInput.md](SampleInput.md)**
-
 ---
+
 
 *Built with 💻 and discrete mathematics 🔢*
